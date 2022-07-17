@@ -40,7 +40,7 @@ Any advise for common problems or issues.Mail me on my email.
 
 Vishal kumar , 2 year B.tech
 
-ex. [@VISHAL-KUMAR786](https://twitter.com/dompizzie)
+ex. [@VISHAL-KUMAR786](https://github.com/VISHAL-KUMAR786/)
 
 ## Acknowledgments
 
