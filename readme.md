@@ -14,6 +14,18 @@ This project will help to create custom video player something like youtube wher
 
 ## Getting Started
 
+open git cli , paste this command
+```
+    git clone https://github.com/VISHAL-KUMAR786/Video-Player-intern.git
+```
+
+install live host on heroku
+```
+ https://video-player-example.herokuapp.com/index.html
+```
+
+open live server in vs code for viewing
+
 ### Dependencies
 
 - Describe any prerequisites, libraries, OS version, etc., needed before installing program.
@@ -22,12 +34,17 @@ This project will help to create custom video player something like youtube wher
 ### Installing
 
 - Install Vs Code
+- Install Heroku
 - Install Live server
 
 ### Executing program
 
-- Click on Go to live in vs code , which is provided by live server extension
+- Click on Go to live in vs code , which is provided by live server extension or 
+- below link is the live example host at heroku
 
+```
+ https://video-player-example.herokuapp.com/index.html
+```
 ## Help
 
 Any advise for common problems or issues.Mail me on my email.
